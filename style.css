@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 25px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+    width: 50%;
+
+}
+
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+#countrySearch{
+    width: 300px;
+  height: 28px;
+}
+button {
+    color: #fff;
+    background-color: #303d4b;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+table {
+    width: 100%;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #007BFF;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+body {
+    background-image: url('assets/3c182309cde0fef5879b1cb23ecbbb7e\ \(1\).jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#allCountriesButton {
+    width: 300px;
+    align-self: center;
+  }
+  button {
+    border-radius: 50%;
+  }
+  button {
+    border-radius: 10px;
+  }
+  
+  #countrySearch {
+    border-radius: 10px;
+  }
