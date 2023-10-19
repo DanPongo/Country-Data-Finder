@@ -65,6 +65,7 @@ function isValidCountryName(countryName) {
 }
 ```
 ## API Reference
+![Screenshot 2023-10-13 191716](https://github.com/DanPongo/Country-Data-Finder/assets/106473315/0f1b6d26-fd5a-4b7c-8338-094764ce8049)
 
 This project uses the [Rest Countries API](https://restcountries.com/) to fetch country data.
 
