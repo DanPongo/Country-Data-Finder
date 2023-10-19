@@ -2,7 +2,7 @@
 
 Explore the world with the World Explorer App! Discover detailed information about countries, including population, region, currencies, and more.
 
-![World Explorer App](link_to_your_app_image)
+![country](https://github.com/DanPongo/Country-Data-Finder/assets/106473315/6ac8d0d6-731c-41bb-a16d-8abf5233cca9)
 
 ## Features
 
